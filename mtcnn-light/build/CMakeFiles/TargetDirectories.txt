@@ -1,3 +1,0 @@
-/home/tsc/MTCNN/MTCNN-light/build/CMakeFiles/rebuild_cache.dir
-/home/tsc/MTCNN/MTCNN-light/build/CMakeFiles/edit_cache.dir
-/home/tsc/MTCNN/MTCNN-light/build/CMakeFiles/main.dir
